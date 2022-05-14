@@ -18,7 +18,8 @@ Recipe App using React, React Slide, Framer Motion, styled Component
 🚀 Follow me:  
 
 
-  - [Github](https://github.com/sakibshadman1)
+  - [Github](https://github.com/sakibshadman19)
+  - [LinkedIn](https://www.linkedin.com/in/shadman-sakib-95462923a/)
   - [Facebook](https://www.facebook.com/shadman.sakibtanmoy)
   
 ---
